@@ -36,10 +36,9 @@ See tests/test_samples.md for the five test cases
 and their actual results.
 
 ## Screenshots
-screenshots/sample_run.png
+![Sample run](screenshots/sample_run.png)
 
-screenshots/test_results.png
-
+![Test results](screenshots/test_results.png)
 ## Improvements
 1. Multiple URL checking: Allows users to check several URLs in one session and quit by typing q.
 2. Warning summary: Displays the number of detected warning signs and asks users to review the URL carefully
